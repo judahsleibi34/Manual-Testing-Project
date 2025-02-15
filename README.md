@@ -1,4 +1,4 @@
-#Project title: 
+# Project title: 
 OrangeHRM Demo Website - Manual Testing Report
 
 ## Date of the project:
