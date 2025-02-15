@@ -1,5 +1,5 @@
 # Project title: 
-OrangeHRM Demo Website - Manual Testing Report
+OrangeHRM Demo Website - Manual Testing Report.
 
 ## Date of the project:
 18-11-2024.
@@ -13,5 +13,5 @@ Manual testing was performed on the following web browsers:
 Google Chrome (Latest Version)
 Microsoft Edge (Latest Version)
 Mozilla Firefox (Latest Version)
-Opera (Latest Version)
+Opera (Latest Version).
 
